@@ -33,7 +33,7 @@
 
 <a href='https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=51' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY IN TALKDROVE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
-<p align="left"><a href="https://repl.it/github/denki-arch/DENKI-MD"> <img src='https://img.shields.io/badge/-DEPLOY IN REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/github/denki-arch/YOANN-XMD"> <img src='https://img.shields.io/badge/-DEPLOY IN REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 <a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY IN KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
